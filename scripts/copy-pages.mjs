@@ -10,6 +10,9 @@ const targets = [
   "CNAME",
   "favicon.ico",
   "favicon.svg",
+  "apple-icon.png",
+  "robots.txt",
+  "sitemap.xml",
   "fr",
   "en",
   "_next",
@@ -29,6 +32,6 @@ for (const name of targets) {
   cpSync(src, dest, { recursive: true });
 }
 
-mkdirSync(join(root, "docs"), { recursive: true });
-rmSync(join(root, "docs"), { recursive: true, force: true });
-cpSync(from, join(root, "docs"), { recursive: true });
+const docs = join(root, "docs");
+rmSync(docs, { recursive: true, force: true });
+cpSync(from, docs, { recursive: true });

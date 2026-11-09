@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[5500,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/1994irp1hrdgh.js","/_next/static/chunks/0zmvyptk783y8.js","/_next/static/chunks/1dp4rwqq7i6r8.js"],"Image"]
+3:I[96199,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/1994irp1hrdgh.js","/_next/static/chunks/0zmvyptk783y8.js","/_next/static/chunks/1dp4rwqq7i6r8.js"],"Reveal"]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+8:X
+20:X
+20:C
+0:{"buildId":"hyf9HoOHPmj5WMwZQvWPA","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"site-grid py-20 md:py-28","children":[["$","h1",null,{"className":"max-w-[16ch] text-[clamp(2.6rem,6vw,4.4rem)] uppercase","children":"Né sur les chantiers de l'Estrie"}],["$","p",null,{"className":"measure mt-6 text-lg text-dust","children":"En 2020, des entrepreneurs de la région de Sherbrooke cherchaient un entreposage solide, livré directement sur leur site. Transport M-A Roy est né de cette demande. Plus de 1 500 clients plus tard, l'entreprise s'est installée en 2023 sur la route 108, à Cookshire-Eaton."}],["$","p",null,{"className":"measure mt-4 text-lg text-dust","children":"Aujourd'hui, on vend, loue et modifie des conteneurs maritimes pour les entreprises, les entrepreneurs, les particuliers, les agriculteurs et les acériculteurs, avec le service direct d'une entreprise d'ici. Spécialistes de l'Estrie, on livre partout au Québec."}]]}],["$","div",null,{"className":"relative h-[46vw] min-h-64 max-h-[480px]","children":["$","$L2",null,{"src":"/media/yard-45.jpg","alt":"","fill":true,"className":"object-cover object-bottom","sizes":"100vw","priority":true}]}],["$","div",null,{"className":"grid md:grid-cols-2","children":[["$","div",null,{"className":"relative min-h-[240px]","children":["$","$L2",null,{"src":"/media/yard-27.jpg","alt":"","fill":true,"className":"object-cover","sizes":"(min-width: 768px) 50vw, 100vw"}]}],["$","div",null,{"className":"relative min-h-[240px]","children":["$","$L2",null,{"src":"/media/yard-36.jpg","alt":"","fill":true,"className":"object-cover","sizes":"(min-width: 768px) 50vw, 100vw"}]}]]}],["$","section",null,{"className":"site-grid grid gap-14 py-20 md:grid-cols-3","children":[["$","$L3",null,{"children":[["$","h2",null,{"className":"font-display text-3xl uppercase","children":"Le départ"}],["$","p",null,{"className":"mt-4 text-dust","children":"L’entreprise a débuté en 2020. Des entrepreneurs de Sherbrooke avaient besoin d’espace solide, livré chez eux. Depuis, plus de 1500 clients ont passé par la cour."}]]}],["$","$L3",null,{"delay":0.3,"children":[["$","h2",null,{"className":"font-display text-3xl uppercase","children":"La cour de Cookshire-Eaton"}],["$","p",null,{"className":"mt-4 text-dust","children":"En 2023, achat du site actuel sur la route 108 à Cookshire-Eaton: une cour commerciale pour la vente locale. On dessert le Québec au complet, avec une spécialisation en Estrie."}]]}],["$","$L3",null,{"delay":0.6,"children":[["$","h2",null,{"className":"font-display text-3xl uppercase","children":"La clientèle"}],["$","p",null,{"className":"mt-4 text-dust","children":"Entreprises, construction, particuliers, agriculteurs et gens en acériculture. On leur vend surtout des conteneurs réfrigérés isolés quand le projet le demande."}]]}]]}],["$","section",null,{"className":"bg-corten","children":["$","div",null,{"className":"site-grid py-16","children":["$","a",null,{"href":"tel:+18195783441","className":"inline-flex items-center justify-center gap-2 font-semibold tracking-[0.04em] whitespace-nowrap transition-colors duration-200 min-h-12 px-6 text-base bg-corten text-white hover:bg-corten-deep ","children":[["$","svg",null,{"aria-hidden":"true","viewBox":"0 0 24 24","className":"h-[1.1em] w-[1.1em]","fill":"currentColor","children":["$","path",null,{"d":"M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.6a1 1 0 0 1-.25 1z"}]}],"819 578-3441"]}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/1dp4rwqq7i6r8.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"À propos | Transport M-A Roy"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]}],"$L1c"]}],"isPartial":"$@1d","staleTime":"$8","varyParams":null},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$8","varyParams":"$20"}],"isUpgradeableISRFallback":false,"a":"$@21","rootVaryParams":null,"needsRuntimeRequest":"$@22"}
+23:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+24:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+25:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","meta","1",{"name":"description","content":"Entreprise fondée en 2020 à Sherbrooke, cour commerciale sur la route 108 à Cookshire-Eaton depuis 2023."}]
+c:["$","meta","2",{"property":"og:title","content":"À propos | Transport M-A Roy"}]
+d:["$","meta","3",{"property":"og:description","content":"Entreprise fondée en 2020 à Sherbrooke, cour commerciale sur la route 108 à Cookshire-Eaton depuis 2023."}]
+e:["$","meta","4",{"property":"og:site_name","content":"Transport M-A Roy"}]
+f:["$","meta","5",{"property":"og:locale","content":"fr_CA"}]
+10:["$","meta","6",{"property":"og:image","content":"https://transportmar.ca/og/transport-ma-roy-partage-1200x630.jpg"}]
+11:["$","meta","7",{"property":"og:image:width","content":"1200"}]
+12:["$","meta","8",{"property":"og:image:height","content":"630"}]
+13:["$","meta","9",{"property":"og:image:alt","content":"Conteneur maritime de 40 pieds sur une remorque, avec le texte Conteneurs maritimes à vendre et à louer de Transport M-A Roy."}]
+14:["$","meta","10",{"property":"og:type","content":"website"}]
+15:["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}]
+16:["$","meta","12",{"name":"twitter:title","content":"À propos | Transport M-A Roy"}]
+17:["$","meta","13",{"name":"twitter:description","content":"Entreprise fondée en 2020 à Sherbrooke, cour commerciale sur la route 108 à Cookshire-Eaton depuis 2023."}]
+18:["$","meta","14",{"name":"twitter:image","content":"https://transportmar.ca/og/transport-ma-roy-partage-1200x630.jpg"}]
+19:["$","link","15",{"rel":"icon","href":"/favicon.ico?favicon.2y_iihf8mwm-r.ico","sizes":"32x32","type":"image/x-icon"}]
+1a:["$","link","16",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.3n8qgamcw_ye5.png","sizes":"180x180","type":"image/png"}]
+1b:["$","$L23","17",{}]
+1c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1e:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+22:true
+8:300
+8:C
+21:0
+1d:"$undefined"
+1f:"$undefined"
+7:"$undefined"
