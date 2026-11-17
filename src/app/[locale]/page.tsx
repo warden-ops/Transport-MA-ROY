@@ -14,12 +14,7 @@ export async function generateMetadata() {
 
 const HERO_IMG = "/media/hero-conteneur-40-pieds-vert-ovl-sans-logo-1284.webp";
 
-export default async function HomePage({
-  params,
-}: {
-  params: Promise<{ locale: AppLocale }>;
-}) {
-  const { locale } = await params;
+export async function HomeContent({ locale }: { locale: AppLocale }) {
   setRequestLocale(locale);
   const t = await getTranslations("home");
   const products = [
@@ -107,6 +102,20 @@ export default async function HomePage({
         </div>
       </section>
 
+      <section className="border-t border-line bg-ink">
+        <div className="site-grid grid gap-6 py-16 md:grid-cols-12 md:py-20">
+          <h2 className="text-[clamp(2rem,4vw,3rem)] uppercase md:col-span-5">{t("localTitle")}</h2>
+          <div className="md:col-span-7">
+            <p className="measure text-dust">{t("localBody")}</p>
+            <div className="mt-6">
+              <CtaLink href="/conteneurs-maritimes-sherbrooke" variant="ghost">
+                {t("localCta")}
+              </CtaLink>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* PHOTO BAND */}
       <div className="relative h-[52vw] max-h-[560px] min-h-[240px]">
         <Image src="/media/conteneurs-20-pieds-cour-entreposage-1600.webp" alt={t("alt20")} fill className="object-cover object-[50%_60%]" sizes="100vw" />
@@ -158,4 +167,14 @@ export default async function HomePage({
       </section>
     </>
   );
+}
+
+export default async function HomePage({
+  params,
+}: {
+  params: Promise<{ locale: AppLocale }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  return <HomeContent locale={locale} />;
 }

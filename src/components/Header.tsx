@@ -10,6 +10,7 @@ import { Wordmark } from "./Wordmark";
 const links = [
   { href: "/", key: "home" as const },
   { href: "/services", key: "services" as const },
+  { href: "/conteneurs-maritimes-sherbrooke", key: "sherbrooke" as const },
   { href: "/produits", key: "products" as const },
   { href: "/a-propos", key: "about" as const },
   { href: "/contact", key: "contact" as const },
