@@ -15,6 +15,7 @@ export async function Footer() {
       <div className="site-grid grid gap-10 py-16 md:grid-cols-12">
         <div className="md:col-span-5">
           <Wordmark />
+          <p className="mt-4 text-sm text-steel">{t("formerName")}</p>
           <p className="measure mt-5 text-[0.98rem] text-dust">{t("blurb")}</p>
           <p className="mt-4 text-sm text-steel">
             {contact("phone")} - {contact("email")}
@@ -33,6 +34,11 @@ export async function Footer() {
             <li>
               <Link href="/services" className="text-paper hover:text-dust">
                 {nav("services")}
+              </Link>
+            </li>
+            <li>
+              <Link href="/conteneurs-maritimes-sherbrooke" className="text-paper hover:text-dust">
+                {t("sherbrooke")}
               </Link>
             </li>
             <li>

@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { CallButton } from "@/components/CallButton";
+import { CtaLink } from "@/components/CtaLink";
 import { Reveal } from "@/components/Reveal";
 import type { AppLocale } from "@/i18n/routing";
 import { pageMeta } from "@/lib/metadata";
@@ -47,13 +48,21 @@ export default async function ServicesPage({
         <div className="md:col-span-7">
           <h1 className="text-[clamp(2.6rem,6vw,4.4rem)] uppercase">{t("title")}</h1>
         </div>
-        <p className="measure md:col-span-5 md:self-end text-dust">{t("lead")}</p>
+        <div className="md:col-span-5 md:self-end">
+          <p className="measure text-dust">{t("lead")}</p>
+          <p className="measure mt-4 text-dust">{t("localNote")}</p>
+          <div className="mt-6">
+            <CtaLink href="/conteneurs-maritimes-sherbrooke" variant="ghost">
+              {t("localCta")}
+            </CtaLink>
+          </div>
+        </div>
       </section>
 
       <div className="relative h-[42vw] min-h-56 max-h-[420px]">
         <Image
           src="/media/conteneurs-20-pieds-cour-entreposage-1600.webp"
-          alt=""
+          alt={t("photoAlt")}
           fill
           className="object-cover"
           sizes="100vw"
